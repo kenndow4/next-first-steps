@@ -4,7 +4,7 @@ const Contact= async() => {
     console.log("ya");
    
     return ( 
-        <span>Contact</span>
+        <span>Contact us</span>
      );
 }
  
